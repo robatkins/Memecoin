@@ -2,5 +2,5 @@
     "name": "FentCoin",
     "symbol": "FENT",
     "description": "Used for supplying funds for George Floyd's Fent Reactor!",
-    "image": "https://raw.githubusercontent.com/robatkins/Memecoin/refs/heads/main/image.png",
+    "uri_image": "https://raw.githubusercontent.com/robatkins/Memecoin/refs/heads/main/image.png",
 }
