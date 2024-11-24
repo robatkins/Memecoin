@@ -3,7 +3,7 @@
   "symbol": "FTC",
   "description": "Used for supplying funds for George Floyd's Fent Reactor!",
   "seller_fee_basis_points": 0,
-  "image": "https://arweave.net/your-image-file.png",
+  "image": "https://raw.githubusercontent.com/robatkins/Memecoin/refs/heads/main/droid.png",
   "attributes": [
     { "trait_type": "Category", "value": "Meme" },
     { "trait_type": "Level", "value": "Legendary" }
@@ -17,7 +17,7 @@
     ],
     "files": [
       {
-        "uri": "https://arweave.net/your-image-file.png",
+        "uri": "https://raw.githubusercontent.com/robatkins/Memecoin/refs/heads/main/droid.png",
         "type": "image/png"
       }
     ]
