@@ -1,7 +1,20 @@
 {
-    "name": "Magic",
-    "symbol": "MAGI",
-    "description": "Magic by Arkana.",
-    "uri_image": "https://raw.githubusercontent.com/robatkins/Memecoin/refs/heads/main/image.png",
-    "showName":true,
+  "name": "Magic",
+  "symbol": "MAGI",
+  "uri": "https://raw.githubusercontent.com/robatkins/Memecoin/refs/heads/main/image.png",
+  "uriHash": "sha256-<hash-value>", 
+  "seller_fee_basis_points": 500,
+  "creators": null,
+  "description": "Magic by Arkana.",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/robatkins/Memecoin/refs/heads/main/image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": null
+  },
+  "showName": true
 }
