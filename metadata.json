@@ -1,0 +1,25 @@
+{
+  "name": "FENTCOIN",
+  "symbol": "FTC",
+  "description": "Used for supplying funds for George Floyd's Fent Reactor!",
+  "seller_fee_basis_points": 0,
+  "image": "https://arweave.net/your-image-file.png",
+  "attributes": [
+    { "trait_type": "Category", "value": "Meme" },
+    { "trait_type": "Level", "value": "Legendary" }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "6FFLMJF6q4GoxDGss5hrujexJSFqgpEzmJHhPv9Bq9pM",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://arweave.net/your-image-file.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
