@@ -3,4 +3,5 @@
     "symbol": "MAGI",
     "description": "Magic by Arkana.",
     "uri_image": "https://raw.githubusercontent.com/robatkins/Memecoin/refs/heads/main/image.png",
+    "showName":true,
 }
