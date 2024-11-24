@@ -1,25 +1,10 @@
 {
-  "name": "FENTCOIN",
-  "symbol": "FTC",
-  "description": "Used for supplying funds for George Floyd's Fent Reactor!",
-  "seller_fee_basis_points": 0,
-  "image": "https://raw.githubusercontent.com/robatkins/Memecoin/refs/heads/main/droid.png",
-  "attributes": [
-    { "trait_type": "Category", "value": "Meme" },
-    { "trait_type": "Level", "value": "Legendary" }
-  ],
-  "properties": {
-    "creators": [
-      {
-        "address": "6FFLMJF6q4GoxDGss5hrujexJSFqgpEzmJHhPv9Bq9pM",
-        "share": 100
-      }
-    ],
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/robatkins/Memecoin/refs/heads/main/droid.png",
-        "type": "image/png"
-      }
+    "name": "Fentcoin",
+    "symbol": "FTC",
+    "description": "Used for supplying funds for George Floyd's Fent Reactor!",
+    "image": "https://raw.githubusercontent.com/robatkins/Memecoin/refs/heads/main/droid.png",
+    "attributes": [
+        { "trait_type": "Version", "value": "1.0" },
+        { "trait_type": "Category", "value": "Utility" }
     ]
-  }
 }
