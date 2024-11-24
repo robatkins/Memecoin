@@ -1,8 +1,6 @@
 {
-    "data":{
-      "name": "FentCoin",
-      "symbol": "FENT",
-      "description": "Used for supplying funds for George Floyd's Fent Reactor!",
-      "image": "https://raw.githubusercontent.com/robatkins/Memecoin/refs/heads/main/image.png"
-    }
+    "name": "FentCoin",
+    "symbol": "FENT",
+    "description": "Used for supplying funds for George Floyd's Fent Reactor!",
+    "uri_image": "https://raw.githubusercontent.com/robatkins/Memecoin/refs/heads/main/image.png",
 }
