@@ -1,10 +1,6 @@
 {
-    "name": "Fentcoin",
-    "symbol": "FTC",
+    "name": "FentCoin",
+    "symbol": "FENT",
     "description": "Used for supplying funds for George Floyd's Fent Reactor!",
     "image": "https://raw.githubusercontent.com/robatkins/Memecoin/refs/heads/main/droid.png",
-    "attributes": [
-        { "trait_type": "Version", "value": "1.0" },
-        { "trait_type": "Category", "value": "Utility" }
-    ]
 }
